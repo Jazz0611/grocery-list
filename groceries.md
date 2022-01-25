@@ -1,4 +1,7 @@
-#Grocery List
+###Groceries
+
+-[]
+
 1.Beans
 2.Potatoes
 3.Onions
